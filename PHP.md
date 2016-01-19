@@ -1,0 +1,3 @@
+- [getcomposer.org](getcomposer.org)
+- [www.phptherightway.com](www.phptherightway.com)
+- [www.php-fig.org](www.php-fig.org)
