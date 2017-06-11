@@ -1,0 +1,2 @@
+- https://laracasts.com/
+- https://coursehunters.net/
